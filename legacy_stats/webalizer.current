@@ -1,0 +1,563 @@
+# Webalizer V2.01-10 Incremental Data - 10/13/2005 11:01:52
+2005 10 13 11 1 52
+618 430 56 70 32 30 4416954 200 114 0
+5 1 85 1 13
+222 83 953856 5 42 12
+17 12 43034 7 9 6
+7 4 6029 3 1 1
+63 60 502343 5 28 12
+84 60 833698 17 37 28
+69 65 864434 7 20 10
+16 15 131854 4 2 2
+31 30 267197 4 5 5
+20 18 102052 5 12 11
+15 14 156398 5 4 4
+59 57 501404 5 28 12
+9 8 39321 3 8 7
+6 4 15334 5 4 4
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+5 4 13230 4
+2 1 216 0
+36 33 211133 19
+0 0 0 0
+0 0 0 0
+5 4 20543 4
+12 4 15686 8
+13 6 19580 10
+96 56 766892 24
+85 2 8968 15
+7 7 50725 1
+3 2 10266 2
+0 0 0 0
+44 41 247962 28
+114 113 1323507 41
+39 36 397988 6
+0 0 0 0
+2 1 204 1
+103 76 977383 18
+6 4 15139 3
+9 7 35121 7
+16 15 156785 4
+16 15 135535 3
+5 3 10091 2
+0
+0
+0
+430
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+159
+0
+0
+0
+0
+0
+0
+29
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/things03.html
+0 3 0 9338 0 1
+/people04.html
+0 8 0 30030 5 3
+/
+0 50 0 242908 45 14
+/images/btn_peopleG.gif
+0 11 0 5490 0 0
+/things04.html
+0 5 0 18656 3 3
+/people05.html
+0 8 0 30065 6 1
+/images/btn_placesG.gif
+0 12 0 6040 0 0
+/images/warnerctr.jpg
+0 2 0 37776 0 0
+/images/webhulabrendan100.jpg
+0 3 0 45783 0 0
+/images/derekschef300bw.jpg
+0 11 0 174285 0 0
+/images/btn_things.gif
+0 13 0 6886 0 0
+/images/chandarafood100.jpg
+0 13 0 72990 0 0
+/things05.html
+0 5 0 18680 3 2
+/people06.html
+0 8 0 29995 4 4
+/images/pinkhouse100.jpg
+0 6 0 94992 0 0
+/things10.html
+0 5 0 18672 3 3
+/images/icecream2100.jpg
+0 12 808987958 67285 0 0
+/images/webfield1.jpg
+0 3 3 109056 0 0
+/images/peaches.jpg
+0 1 0 0 0 0
+/places01.html
+0 10 0 37656 3 3
+/things06.html
+0 5 0 18660 3 4
+/images/Taiko2.jpg
+0 1 4 17411 0 0
+/images/antonio.jpg
+0 2 0 92052 0 0
+/images/spools100.jpg
+0 12 0 63355 0 0
+/images/webhulabrendan.jpg
+0 3 1108533976 84144 0 0
+/images/sparklingwine300bw.jpg
+0 11 4294967295 102078 0 0
+/images/rbw300.jpg
+0 12 4294967295 237000 0 0
+/images/cgpraspberries.jpg
+0 2 4294967295 18089 0 0
+/places02.html
+0 6 4294967295 20935 2 1
+/things07.html
+0 4 4294967295 14019 2 2
+/images/sunroom100.jpg
+0 6 4294967295 85974 0 0
+/images/rbw.jpg
+0 5 4294967295 121350 0 0
+/places03.html
+0 8 4294967295 29435 6 2
+/things08.html
+0 4 4294967295 14001 2 0
+/images/Taiko2100.jpg
+0 6 4294967295 82638 0 0
+/images/kakemoto2100.jpg
+0 12 4294967295 73955 0 0
+/images/btn_thingsG.gif
+0 17 4294967295 5008 0 0
+/images/arirang100.jpg
+0 3 4294967295 45630 0 0
+/places04.html
+0 6 4294967295 20820 2 1
+/things09.html
+0 4 4294967295 14007 3 2
+/images/derek'schef100.jpg
+0 4 4294967295 48720 0 0
+/images/s
+0 12 4294967295 66535 3 4
+/images/rbw100.jpg
+0 7 4294967295 95994 0 0
+/images/sparklingwine300.jpg
+0 13 4294967295 165980 0 0
+/places05.html
+0 6 4294967295 21010 1 3
+/images/mary100.jpg
+0 3 4294967295 45432 0 0
+/images/btn_places.gif
+0 19 4294967295 6040 0 0
+/images/warnerctr100.jpg
+0 6 4294967295 97104 0 0
+/images/arirang.jpg
+0 3 4294967295 140361 0 0
+/images/sparklingwine.jpg
+0 12 4294967295 78360 0 0
+/images/btn_people.gif
+0 20 4294967295 6710 0 0
+/images/derekschef300.jpg
+0 12 4294967295 235233 0 0
+/images/sparklingwine100.jpg
+0 12 4294967295 68015 0 0
+/images/soup100.jpg
+0 12 4294967295 75265 0 0
+/images/jenlogo.gif
+0 21 4294967295 35266 0 0
+/people01.html
+0 8 4294967295 30149 4 3
+/images/peaches100.jpg
+0 12 4294967295 65755 0 0
+/images/cgpraspberries100.jpg
+0 12 4294967295 74880 0 0
+/images/pinkhouse.jpg
+0 4 4294967295 167307 0 0
+/things01.html
+0 16 4294967295 37392 4 2
+/people02.html
+0 7 4294967295 25728 4 4
+/images/antonio100.jpg
+0 4 4294967295 65328 0 0
+/images/webfield1100.jpg
+0 4 4294967295 58740 0 0
+/images/rbw300bw.jpg
+0 11 4294967295 151740 0 0
+/images/jiraffe4100.jpg
+0 12 4294967295 76910 0 0
+/things02.html
+0 6 4294967295 23375 2 4
+/people03.html
+0 6 4294967295 21440 4 1
+/images/sunroom.jpg
+0 1 4294967295 26043 0 0
+/images/derek'schef.jpg
+0 3 4294967295 81366 0 0
+/images/mary.jpg
+0 3 4294967295 101511 0 0
+# End Of Table - urls
+# -sites- (monthly)
+64.124.85.72.become.com
+0 2 1 5597 1 1128631190
+/
+82.131.199.61.pool.invitel.hu
+0 2 2 10762 1 1129097347
+/
+65.214.39.180
+0 14 14 126269 1 1128777446
+/
+c-24-5-109-173.hsd1.ca.comcast.net
+0 33 33 392175 1 1128436289
+/places01.html
+66-194-6-83.gen.twtelecom.net
+0 1 1 5381 1 1128500369
+/
+lj2592.inktomisearch.com
+0 1 1 4295 1 1128912616
+/people05.html
+crawl-66-249-64-58.googlebot.com
+0 3 0 0 1 1128501474
+/things05.html
+msnbot.msn.com
+0 38 35 160078 14 1129189731
+/
+system212-8.losangeles.af.mil
+0 56 56 822312 8 1128523459
+/
+209.241.144.111
+0 5 5 23927 2 1128284914
+/places01.html
+64.246.165.236
+0 8 8 80822 1 1128652289
+/
+crawl-66-249-64-33.googlebot.com
+0 2 0 0 2 1128503890
+/things06.html
+crawl-66-249-66-2.googlebot.com
+0 1 1 4675 1 1128127382
+/things02.html
+crawl-66-249-64-55.googlebot.com
+0 1 0 0 1 1128525709
+/people04.html
+hal9010.cs.uiuc.edu
+0 1 0 204 0 0
+-
+crawl-66-249-64-66.googlebot.com
+0 1 0 0 1 1128503486
+/people05.html
+caching1-pnc2.asianet.co.th
+0 11 11 141137 1 1128979575
+/places03.html
+66-194-6-73.gen.twtelecom.net
+0 1 1 5381 1 1129053644
+/
+crawl-66-249-71-72.googlebot.com
+0 1 0 0 1 1128496657
+/things08.html
+crawl-66-249-65-80.googlebot.com
+0 2 1 216 0 0
+-
+216.145.16.235
+0 6 6 45447 0 0
+-
+crawl-66-249-71-39.googlebot.com
+0 1 1 0 1 1128498677
+/
+lj2312.inktomisearch.com
+0 2 2 0 2 1129161775
+/
+crawl-66-249-71-32.googlebot.com
+0 2 0 0 2 1128497213
+/things07.html
+66-194-6-67.gen.twtelecom.net
+0 4 4 21524 4 1128910015
+/
+crawl-66-249-64-30.googlebot.com
+0 3 0 0 2 1128501754
+/things03.html
+200-84-163-249.genericrev.cantv.net
+0 7 7 50725 1 1128852511
+/
+lj2420.inktomisearch.com
+0 1 0 204 0 0
+-
+66-194-6-80.gen.twtelecom.net
+0 3 3 16143 3 1129201312
+/
+gate.timeinc.com
+0 59 58 834971 3 1128624852
+/places01.html
+66-194-6-74.gen.twtelecom.net
+0 1 1 5381 1 1128980148
+/
+64.62.168.38
+0 1 0 204 0 0
+-
+1cust249.tnt1.mel1.da.uu.net
+0 13 13 125643 1 1128809211
+/
+crawl-66-249-71-69.googlebot.com
+0 1 0 0 1 1128502054
+/things10.html
+64.62.168.54
+0 1 1 5381 1 1128552172
+/
+62-77-246-137.vnet.hu
+0 2 2 10762 2 1128835508
+/
+crawl-66-249-71-73.googlebot.com
+0 3 0 204 1 1128493111
+/places04.html
+66-194-6-68.gen.twtelecom.net
+0 1 1 5381 1 1128219959
+/
+lj2538.inktomisearch.com
+0 1 0 204 0 0
+-
+66-194-6-70.gen.twtelecom.net
+0 1 1 5381 1 1128710418
+/
+crawl-66-249-66-142.googlebot.com
+0 10 5 1080 0 0
+-
+66-194-6-75.gen.twtelecom.net
+0 2 2 10762 2 1129130841
+/
+209.108.204.70
+0 33 33 392175 2 1129043673
+/things01.html
+58.238.73.2
+0 42 16 131650 1 1128192510
+/
+lj2411.inktomisearch.com
+0 3 0 612 0 0
+-
+lj2166.inktomisearch.com
+0 1 1 4670 1 1129057733
+/things05.html
+crawl-66-249-64-79.googlebot.com
+0 3 0 0 3 1128504473
+/places03.html
+66-194-6-71.gen.twtelecom.net
+0 2 2 10762 2 1128777618
+/
+crawl-66-249-65-136.googlebot.com
+0 8 5 13332 3 1128590655
+/people05.html
+lj2369.inktomisearch.com
+0 1 1 4205 1 1128238173
+/places03.html
+anubis.cs.ucla.edu
+0 24 23 104355 10 1128431961
+/things08.html
+crawl-66-249-64-28.googlebot.com
+0 2 0 0 2 1128497233
+/places05.html
+pcp01105940pcs.clntn201.mi.comcast.net
+0 165 53 756631 4 1128160052
+/things01.html
+crawl-66-249-66-194.googlebot.com
+0 18 15 69142 14 1129163116
+/places04.html
+www.whois.sc
+0 4 2 6576 2 1128866019
+/
+crawl-66-249-66-103.googlebot.com
+0 3 2 216 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+msnbot.msn.com
+0 2 1 5585 1 1129189731
+/
+lj2312.inktomisearch.com
+0 1 1 0 1 1129161775
+/
+66-194-6-80.gen.twtelecom.net
+0 1 1 5381 1 1129201312
+/
+lj2411.inktomisearch.com
+0 1 0 204 0 0
+-
+crawl-66-249-66-194.googlebot.com
+0 1 1 4164 1 1129163116
+/places04.html
+# End Of Table - sites (daily)
+# -referrers- 
+http://www.google.co.ve/custom
+0 1
+- (Direct Request)
+0 219
+http://photojen.com/
+1 14
+http://www.photojen.com/people01.html
+1 9
+http://www.photojen.com
+1 27
+http://www.photojen.com/things01.html
+1 35
+http://www.photojen.com/people02.html
+1 1
+http://www.photojen.com/index.html
+1 14
+http://www.photojen.com/people03.html
+1 4
+http://www.photojen.com/people04.html
+1 3
+http://images.google.co.th/imgres
+0 1
+http://photojen.com/people01.html
+1 9
+http://www.photojen.com/people05.html
+1 3
+http://photojen.com/things01.html
+1 117
+http://photojen.com/people02.html
+1 1
+http://www.photojen.com/people06.html
+1 3
+http://photojen.com/things02.html
+1 1
+http://photojen.com/people03.html
+1 2
+http://www.photojen.com/places01.html
+1 21
+http://www.photojen.com/
+1 93
+http://search.yahoo.com/search
+0 1
+http://photojen.com/people04.html
+1 2
+http://www.whois.sc/
+0 2
+http://www.photojen.com/places02.html
+1 2
+http://photojen.com/people05.html
+1 2
+http://www.photojen.com/places03.html
+1 12
+http://photojen.com/people06.html
+1 2
+http://www.whois.sc/photojen.com
+1 2
+http://www.photojen.com/places04.html
+1 2
+http://www.hotelbelair.com/credits.html
+0 3
+http://photojen.com/places01.html
+1 7
+http://www.photojen.com/places05.html
+1 3
+# End Of Table - referrers
+# -agents- 
+Googlebot-Image/1.0
+0 19
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Q312460)
+0 3
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET 
+0 14
+Mozilla/5.0 (compatible; Konqueror/3.1-rc4; i686 Linux; 20020
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Q312462)
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Q312463)
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Q312464)
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; .NET CLR 1
+0 14
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Q312467)
+0 1
+msnbot/1.0 (+http://search.msn.com/msnbot.htm)
+0 38
+"Mozilla/5.
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET 
+0 216
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1
+0 13
+Googlebot/2.1 (+http://www.google.com/bot.html)
+0 23
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; FunWe
+0 33
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+0 4
+Mozilla/5.0 (compatible; Konqueror/3.0-rc3; i686 Linux; 20020
+0 1
+Mozilla/5.0 (compatible; Konqueror/3.0-rc3; i686 Linux; 20021
+0 1
+Mozilla/5.0 (compatible; BecomeBot/2.3; MSIE 6.0 compatible; 
+0 2
+Gigabot/2.0
+0 2
+SurveyBot/2.3 (Whois Source)
+0 4
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.co
+0 23
+Mozilla/3.01 (compatible;)
+0 38
+Mozilla/5.0 (compatible; Konqueror/3.1-rc6; i686 Linux; 20020
+0 2
+Mozilla/5.0 (compatible; Konqueror/3.1-rc6; i686 Linux; 20021
+0 1
+Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/
+0 10
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+0 60
+Mozilla/5.0 (compatible; Konqueror/3.0-rc6; i686 Linux; 20020
+0 1
+BruinBot (+http://webarchive.cs.ucla.edu/bruinbot.html)
+0 24
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/312.
+0 59
+# End Of Table - agents
+# -search strings- 
+jenifer
+1
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

@@ -1,0 +1,222 @@
+<SCRIPT LANGUAGE="JavaScript">
+
+	Expire = new Date(2005, 0, 1);
+	CookieName = "size";
+	ValueString = escape(screen.width);
+	ValueString2 = escape(screen.height);
+	document.cookie = CookieName + "=" + ValueString + "," + ValueString2 + "; expires=" + Expire.toGMTString();
+	
+ 
+</SCRIPT>
+ 
+
+
+	
+
+
+<html>
+<head>
+
+<META NAME="description" CONTENT="Initiatives in education and medical research include Teacher Advancement Program, Educator Awards, National Education Conference, prostate cancer research (CaP CURE), Education Technology, Festival for Youth">
+
+<META NAME="keywords" CONTENT="foundation, education, Milken, Teacher, Advancement, Program, educator, giving, nonprofit, award, non-profit, prostate, community, non profit, K-12, educational, elementary, secondary, medical, cancer, research, service, organization, school, teacher, teaching, student, national, Santa Monica, Los Angeles, California, learning, technology, Milliken, Milkin, Milikin, initiatives, Conference, National Education Conference, Festival for Youth, Milken Exchange, Institute, Scholars, Epilepsy Award, Mike's Math Club, Milken Educator Virtual Workspace, MEVW, Cap Cure, capcure, American Jewish Music, Archives, Portrait of Giving, charitable">
+
+<META NAME="rating" CONTENT="General">
+
+<META NAME="revisit-after" CONTENT="30 days">
+
+<META NAME="VW96.objecttype" CONTENT="Initiatives in education and medical research include Teacher Advancement Program, Educator Awards, National Education Conference, prostate cancer research (CaP CURE), Education Technology, Festival for Youth">
+
+<META NAME="ROBOTS" CONTENT="ALL">
+
+<META NAME="DC.title" CONTENT="Initiatives in education and medical research include Teacher Advancement Program, Educator Awards, National Education Conference, prostate cancer research (CaP CURE), Education Technology, Festival for Youth">
+
+<META NAME="DC.subject" CONTENT="Initiatives in education and medical research include Teacher Advancement Program, Educator Awards, National Education Conference, prostate cancer research (CaP CURE), Education Technology, Festival for Youth">
+
+<META NAME="DC.description" CONTENT="Initiatives in education and medical research include Teacher Advancement Program, Educator Awards, National Education Conference, prostate cancer research (CaP CURE), Education Technology, Festival for Youth">
+
+<META NAME="DC.Language" SCHEME="RFC1766" CONTENT="EN">
+
+<META NAME="DC.Coverage.PlaceName" CONTENT="Global">
+
+<TITLE>Milken Family Foundation </TITLE>
+
+<META NAME="keywords" CONTENT="foundation education Milken Teacher Advancement Program educator giving nonprofit award non-profit prostate community non profit K-12 educational elementary secondary medical cancer research service organization school teacher teaching student national Santa Monica Los Angeles California learning technology Milliken Milkin Milikin initiatives Conference National Education Conference Festival for Youth Milken Exchange Institute Scholars Epilepsy Award Mike's Math Club Milken Educator Virtual Workspace MEVW Cap Cure capcure American Jewish Music Archives Portrait of Giving charitable">
+
+<META NAME="description" CONTENT="Initiatives in education and medical research include Teacher Advancement Program, Educator Awards, National Education Conference, prostate cancer research (CaP CURE), Education Technology, Festival for Youth">
+
+<META NAME="DC.title" CONTENT="Initiatives in education and medical research include Teacher Advancement Program, Educator Awards, National Education Conference, prostate cancer research (CaP CURE), Education Technology, Festival for Youth">
+
+<META NAME="DC.subject" CONTENT="Initiatives in education and medical research include Teacher Advancement Program, Educator Awards, National Education Conference, prostate cancer research (CaP CURE), Education Technology, Festival for Youth">
+
+<META NAME="DC.description" CONTENT="Initiatives in education and medical research include Teacher Advancement Program, Educator Awards, National Education Conference, prostate cancer research (CaP CURE), Education Technology, Festival for Youth">
+
+
+
+<style type="text/css">
+A:link, A:visited {font-family: Verdana; text-decoration: none;}
+A:hover {cursor: hand; color: ff0000; text-decoration: underline;}
+</style>
+
+</head>
+
+<BODY bgcolor="ffffff" text="000000" link="900000" alink="e6e6ff" vlink="666699" marginheight=8 marginwidth=8 leftmargin=8 topmargin=8>
+
+
+<!-- Header begins here -->
+
+<TABLE cellspacing=0 cellpadding=0 border=0 width="597">
+	<TR><TD valign="top" align="left" width="426" bgcolor="333366">
+<EMBED src="/website_header.swf" quality=high WIDTH=426 HEIGHT=55 TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></EMBED>
+</TD>
+	<TD valign="bottom" align="right" width="171" bgcolor="333366">
+
+<script language="javascript">
+<!--
+
+browser = (((navigator.appName == "Netscape") && (parseInt(navigator.appVersion) >= 3 )) || ((navigator.appName == "Microsoft Internet Explorer") && (parseInt(navigator.appVersion) >= 4 )))
+
+today=new Date();
+
+function isnArray() {
+if (browser) {
+ argnr=isnArray.arguments.length
+ for (var i=0;i<argnr;i++) {
+  this[i+1] = isnArray.arguments[i];
+  }}
+}
+
+var isnMonths=new isnArray("January","February","March","April","May","June","July","August","September","October","November","December");
+var isnDays= new isnArray("Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday");
+isnDays[0]="Sunday";
+
+if (browser) {
+document.write("<font face=verdana,geneva size=-1 color=ffffff><BR>" +isnDays[today.getDay()]+"&nbsp;&nbsp;</FONT><BR><font face=verdana,geneva size=-2 color=ffffff>"+isnMonths[today.getMonth()+1]+" "+today.getDate()+", 2003&nbsp;&nbsp;<BR><BR></FONT>");
+}
+
+//-->
+</script></TD></TR>
+
+
+
+
+<!-- Header ends here -->
+
+<!-- header.html ends -->
+</table>
+
+ 
+
+
+	
+	
+	
+
+<!--
+<HR>/index/mattercookie.html<HR>
+-->
+
+
+ 
+
+</TABLE>
+
+<IMG SRC="img/blank.gif" width="1" height="14" alt="" border=0><BR>
+<!-- Main content goes here -->
+<TABLE cellspacing=0 cellpadding=0 border=0 width="597"><TR><TD valign="top" align="left" bgcolor="ccccff"><IMG SRC="img/sidebar_pixel.gif" alt="" width="1" height="24" vspace="63" border=0></TD>
+<!-- Sidebar begins here -->
+<TD valign="top" align="left" width="143" bgcolor="f0f0e6">
+<!-- Search goes here -->
+
+
+<TR><TD bgcolor="ffffff"><IMG SRC="img/blank.gif" width="143" height="20" alt="" border=0></TD></TR>
+
+<TR><TD valign="center" align="center" width="143"><IMG SRC="img/blank.gif" width="1" height="3" alt="" border=0><BR>
+
+<TABLE cellspacing=0 cellpadding=0 border=0 width="130">
+<TR><TD valign="top" align="left" width="130">
+
+<BR>
+<FONT FACE="verdana,geneva" size="-2">
+
+Twenty-eight states </FONT><P>
+
+<IMG SRC="img/sidebar_middle_line.gif" ALT="" WIDTH="130" HEIGHT="2" BORDER="0" VSPACE="0" HSPACE="0"><P>
+
+
+<FONT FACE="verdana,geneva" size="-2">
+
+
+
+
+<P><BR>
+</TD></TR></TABLE>
+</TD></TR></TABLE></TD>
+
+<TD valign="top" align="left" bgcolor="ccccff"><IMG SRC="img/sidebar_pixel.gif" alt="" width="1" height="6" border=0><BR><IMG SRC="img/sidebar_pixel.gif" alt="" width="1" height="30" vspace="56" border=0></TD>
+<!-- Sidebar ends here -->
+<TD><IMG SRC="index_img/blank.gif" alt="" width="15" height="1" border="0"></TD>
+
+<TD valign="top" align="left" width="285">
+
+
+<IMG SRC="index_img/article358_main.gif" alt="" width="285" height="116" border="0" vspace="4"><BR>
+
+
+<UL>
+
+
+
+
+
+<FONT FACE="verdana,geneva" size="-1"> 
+
+
+
+<!-- main content ends here -->
+
+<!-- gutter here #-->
+
+<TD><IMG SRC="index_img/blank.gif" alt="" width="15" height="1" border="0"></TD>
+
+<!-- sidebar here #-->
+
+
+
+
+
+<!--
+flash cookie is set to true
+
+-->
+
+
+ 
+
+</TD>
+</TR></TABLE>
+
+<P>
+
+<!-- end of daily photos #--> 
+<!-- begin publications section #-->
+
+
+</TD></TR></TABLE>
+
+<!-- end publications section #--> 
+<!-- footer.html begins -->
+<!-- Footer begins here -->
+<BR>
+<TABLE cellspacing=0 cellpadding=0 border=0 width="597">
+<TR bgcolor="ccccff"><TD colspan="2"><IMG SRC="img/blank.gif" alt="" width="597" height="1" border=0></TD></TR>
+<TR bgcolor="f0f0e6"><TD colspan="2"><IMG SRC="img/blank.gif" alt="" width="1" height="2" border=0></TD></TR>
+<TR><TD valign="top" align="left" bgcolor="f0f0e6"><FONT FACE="arial,helvetica" size="-2" color="000000">&nbsp;&nbsp;&copy; 2003. Milken Family Foundation. All rights reserved.</FONT></TD><TD valign="top" align="right" bgcolor="f0f0e6"><FONT FACE="verdana,geneva" size="-2"><A HREF="mailto:webmaster@mff.org">E-mail the Webmaster</A>&nbsp;&nbsp;</FONT></TD></TR>
+<TR bgcolor="f0f0e6"><TD colspan="2"><IMG SRC="img/blank.gif" alt="" width="1" height="2" border=0></TD></TR>
+<TR bgcolor="ccccff"><TD colspan="2"><IMG SRC="img/blank.gif" alt="" width="597" height="1" border=0></TD></TR>
+</TR></TABLE>
+
+<!-- Footer ends here -->
+
+</BODY>
+</HTML>
