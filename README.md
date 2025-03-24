@@ -14,13 +14,9 @@ the live site is available at:
 - bio, blog, and guestbook pages  
 - contact section for inquiries  
 
-## tech stack
-
-this site is built on [zenfolio](https://zenfolio.com), a platform tailored for professional photographers. while the codebase isn't custom-built, this repo exists to document the creative identity, visual structure, and branding behind the site.
-
 ## contact
 
-📧 jen@photojen.com  
+📧 jenifer@photojen.com  
 🔗 [linkedin – jenifer schaupeter](https://www.linkedin.com/in/jenifer-schaupeter-4877863)  
 📸 [instagram – @jeniferschaupeter](https://www.instagram.com/jeniferschaupeter)  
 🌐 [facebook](https://www.facebook.com/jenifer.schaupeter)
